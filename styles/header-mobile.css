@@ -28,6 +28,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
   background-color: rgb(255, 255, 255);
   border-bottom-width: 1px;
   border-bottom-style: solid;
@@ -51,20 +52,13 @@
   cursor: pointer;
 }
 
-.middle section{
-  flex:1;
-  margin-left: 70px;
-  margin-right:35px ;
+.middle-section{
   max-width: 500px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  margin-left: 55px;
 }
-
 .logo{
-  height: 500;
-  margin-top: 10px;
-  margin-left: 110px;
+  height: 250px;
+  margin-top: 50px;
 }
 
 .right-section{
