@@ -40,5 +40,7 @@
   justify-content: center;
   align-items: center;
   margin-bottom: 50px;
+  width: 1fr;
+  margin-left: 300px;
 
 }
